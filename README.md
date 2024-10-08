@@ -1,6 +1,6 @@
 # Un gran autor: MARIO BENEDETTI 
 ##Una vida, mil historias, todo un mundo para descubrir.
-¡(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-84ZjlWkwrv-Ew-KdmddqdM19T0Mmoynmg&s)
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-84ZjlWkwrv-Ew-KdmddqdM19T0Mmoynmg&s)
 #El inicio de un gran escritor!!!
 * Mario Benedetti nació en Paso de los Toros (Tacuarembó, Uruguay) el 14 de septiembre de 1920, hijo de Brenno Benedetti y Matilde Farrugia, quienes, siguiendo sus costumbres italianas, lo bautizaron con cinco nombres
 familiares como Mario Orlando Hardy Hamlet Brenno Benedetti Farrugia.
